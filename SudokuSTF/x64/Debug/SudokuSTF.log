@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\pstep\source\repos\SudokuSTF\SudokuSTF\src\Main.cpp(60): warning C4715: 'UsedInCol': not all control paths return a value
+  SudokuSTF.vcxproj -> C:\Users\pstep\source\repos\SudokuSTF\x64\Debug\SudokuSTF.exe
